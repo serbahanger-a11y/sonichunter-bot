@@ -1,0 +1,15 @@
+# Core Telegram libraries
+aiogram==3.4.1
+telethon==1.35.0
+
+# Database
+asyncpg==0.29.0
+
+# Cache
+redis==5.0.1
+
+# Audio metadata parsing
+mutagen==1.47.0
+
+# Environment variables
+python-dotenv==1.0.0
