@@ -1,0 +1,1 @@
+SVG logo package for the Ryazan water-ski sport federation.
