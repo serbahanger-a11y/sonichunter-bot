@@ -1,0 +1,5 @@
+Main title: Russo One
+Secondary line: Russo One
+Bottom line: Montserrat Medium
+Recommended fallback for editing: TT Supermolot Neue Bold Italic for the main two lines, Montserrat Medium for the bottom line.
+Colors: dark navy #04285C, blue #0D73E8, red #FF2032.
