@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+<defs>
+<linearGradient id="gNavy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#031C4A"/><stop offset="1" stop-color="#073A86"/></linearGradient>
+<linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A58C9"/><stop offset="1" stop-color="#1795FF"/></linearGradient>
+<linearGradient id="gRed" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2237"/><stop offset="1" stop-color="#FF001B"/></linearGradient>
+<style>
+.main{font-family:'Russo One',Arial,sans-serif;font-size:118px;font-weight:700;letter-spacing:3px;fill:#04285C}
+.sub{font-family:'Russo One',Arial,sans-serif;font-size:48px;font-weight:700;letter-spacing:2px;fill:#04285C}
+.bottom{font-family:'Montserrat',Arial,sans-serif;font-size:34px;font-weight:500;letter-spacing:12px;fill:#04285C}
+</style>
+</defs>
+<rect width="1200" height="1200" fill="#fff"/>
+<circle cx="742" cy="121" r="31" fill="url(#gNavy)"/>
+<path d="M220 243L429 253L543 278" fill="none" stroke="#04285C" stroke-width="4" stroke-linecap="round"/>
+<circle cx="429" cy="253" r="12" fill="#04285C"/>
+<path d="M429 253L541 301" fill="none" stroke="#04285C" stroke-width="4" stroke-linecap="round"/>
+<path d="M539 279L555 249L612 249L585 286Z" fill="#fff" stroke="#04285C" stroke-width="8" stroke-linejoin="round"/>
+<path d="M573 279C649 279 707 276 794 228C791 260 773 311 735 364C688 431 620 503 525 545C631 525 740 491 950 420C976 412 998 426 1006 444C1015 463 1008 486 973 489C797 495 630 528 474 599C535 521 594 443 660 364C703 313 729 273 741 233C695 265 637 279 573 279Z" fill="url(#gNavy)"/>
+<path d="M170 553C228 635 352 668 492 653C626 640 755 603 960 497C793 540 643 573 485 585C370 594 282 588 239 559C286 491 346 453 419 422C326 438 238 481 170 553Z" fill="url(#gNavy)"/>
+<path d="M229 642C378 685 536 678 675 653C777 634 874 603 975 563C852 594 739 619 617 637C475 658 345 659 229 632Z" fill="url(#gBlue)"/>
+<path d="M243 699C397 739 560 729 701 700C799 680 892 653 989 617C872 648 765 675 648 695C501 721 368 723 243 689Z" fill="url(#gRed)"/>
+<text x="600" y="855" class="main" text-anchor="middle">ФЕДЕРАЦИЯ</text>
+<path d="M108 905H201" stroke="url(#gBlue)" stroke-width="5" stroke-linecap="round"/>
+<path d="M997 905H1090" stroke="url(#gRed)" stroke-width="5" stroke-linecap="round"/>
+<text x="600" y="918" class="sub" text-anchor="middle">ВОДНОЛЫЖНОГО СПОРТА</text>
+<text x="600" y="994" class="bottom" text-anchor="middle">РЯЗАНСКОЙ ОБЛАСТИ</text>
+</svg>
