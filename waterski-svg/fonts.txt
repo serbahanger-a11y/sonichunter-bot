@@ -1,5 +1,10 @@
-Main title: Russo One
-Secondary line: Russo One
-Bottom line: Montserrat Medium
-Recommended fallback for editing: TT Supermolot Neue Bold Italic for the main two lines, Montserrat Medium for the bottom line.
-Colors: dark navy #04285C, blue #0D73E8, red #FF2032.
+ФЕДЕРАЦИЯ — TT Supermolot Neue Expanded ExtraBold Italic
+ВОДНОЛЫЖНОГО СПОРТА — TT Supermolot Neue Expanded Bold Italic
+РЯЗАНСКОЙ ОБЛАСТИ — Montserrat Medium
+
+Важно: исходная надпись была сгенерирована нейросетью, поэтому точного исходного шрифта не существует. Эти три гарнитуры — ближайшая реальная замена для редактирования.
+
+Цвета:
+тёмно-синий #062655
+синий градиент #0759C7 → #1497FF
+красный градиент #E8172B → #FF2436
